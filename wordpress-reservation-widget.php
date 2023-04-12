@@ -8,4 +8,4 @@
 
 
 // MAIN PLUGIN DIRECTORY
-require_once(dirname(__FILE__).'/widget/reservation-plugin.php');
+require_once(dirname(__FILE__).'/widget/reservation-widget.php');
