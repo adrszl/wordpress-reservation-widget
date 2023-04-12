@@ -18,7 +18,7 @@ class Reservation_Widget extends WP_Widget {
     public function __construct() {
         parent::__construct(
             'reservation_widget', // Base ID
-            'Widget rezerwacyjny', // Name
+            'Reservation Widget', // Name
             array( 'description' => __( 'Add this widget to allow user quick date reservation.', 'text_domain' ), ) // Args
         );
     }
